@@ -43,7 +43,6 @@ Live Website: [https://scan-qr-portfolio.vercel.app/](https://scan-qr-portfolio.
 ![Image](https://github.com/user-attachments/assets/a28229b2-80b8-464e-b5a8-ee8522d189ae)
 
 
-* /public/screenshots/projects.png
 
 ## Installation
 
