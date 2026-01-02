@@ -83,7 +83,7 @@ export default function AnimatedTestimonialsDemo() {
     {
       quote:
         "An elegant, joyful, and interactive birthday invitation website crafted with soft pastel gradients, playful animations, and a luxurious UI.",
-      name: <a href="https://celebrate-birthday-invite.vercel.app/" target="_blank">Birthday</a>,
+      name: <a href="https://celebrate-birthday-invite.vercel.app/" target="_blank">Celebrate</a>,
       designation: "Elegant Birthday Invitation Website 🎉 ",
       src: "birthday.png",
     },
