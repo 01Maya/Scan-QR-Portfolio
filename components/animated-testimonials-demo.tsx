@@ -54,8 +54,8 @@ export default function AnimatedTestimonialsDemo() {
     },
     {
       quote:
-        "An elegant and responsive landing page with smooth animations, created to showcase stunning interior spaces with style and sophistication.",
-      name: <a href="https://luxor-interior-design.vercel.app/" target="_blank">Luxor - Interior Design</a>,
+        "An elegant and responsive Interior landing page with smooth animations, created to showcase stunning interior spaces with style and sophistication.",
+      name: <a href="https://luxor-interior-design.vercel.app/" target="_blank">Luxor Design</a>,
       designation: "Interior Design Landing Page 🏡",
       src: "interior.png",
     },
