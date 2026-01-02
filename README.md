@@ -36,7 +36,9 @@ Hero Section: Displays a QR code along with name, designation, and a short descr
 
 ## Preview
 
-Live Website: [https://scan-qr-portfolio.vercel.app/](https://scan-qr-portfolio.vercel.app/)
+Live Website: 
+
+[https://scan-qr-portfolio.vercel.app/](https://scan-qr-portfolio.vercel.app/)
 
 ## Screenshots
 
