@@ -46,7 +46,7 @@ Live Website:
 
 
 
-## Installation
+## Installation 📋
 
 1. Clone the repository: `git clone https://github.com/your-username/scan-qr-portfolio.git`
 2. Go to the project directory: `cd scan-qr-portfolio`
