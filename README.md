@@ -3,7 +3,7 @@
 
 # Scan QR Portfolio
 
-## Overview
+## Overview ✨
 
 A modern, animated QR-based portfolio website for showcasing projects and personal branding.
 Built with a clean interface, smooth interactions, and responsive design.
