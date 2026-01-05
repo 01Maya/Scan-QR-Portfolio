@@ -77,7 +77,7 @@ export default function AnimatedTestimonialsDemo() {
       quote:
         "A responsive and modern fitness landing page with sleek UI/UX, crafted to motivate and engage users through smooth transitions and dynamic visuals.",
       name: <a href="https://fitness-o1.vercel.app/" target="_blank">Fitness</a>,
-      designation: "Sleek responsive Fitness™ landing page 🌱",
+      designation: "Fitness™ landing page 🌱",
       src: "fitness.png",
     },
     {
