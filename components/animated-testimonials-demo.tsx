@@ -103,7 +103,7 @@ export default function AnimatedTestimonialsDemo() {
     },
     {
       quote:
-        "A modern, elegant, and responsive wedding planner website built withsmooth scrolling navigation, subtle hover effects, and a minimal floral background — beautifully presenting services, gallery, testimonials, and contact sections..",
+        "A modern, elegant, and responsive wedding planner website built withsmooth scrolling navigation, subtle hover effects, and a minimal floral background — beautifully presenting services, gallery, testimonials, and contact sections.",
       name: <a href="https://moments-wedding-planner.vercel.app/" target="_blank">Moments</a>,
       designation: "Wedding Planner Website 💍",
       src: "moments.png",
