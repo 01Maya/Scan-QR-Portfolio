@@ -96,6 +96,13 @@ export default function AnimatedTestimonialsDemo() {
     },
     {
       quote:
+        "Celebrations is a joyful, interactive landing page that showcases iconic chocolates in a festive and immersive experience. It blends playful interactions with a clean premium UI.",
+      name: <a href="https://celebrations-box.vercel.app/" target="_blank">Celebrations</a>,
+      designation: "Explore the Flavours of Happiness🎉",
+      src: "chocolate.png",
+    },
+    {
+      quote:
         "A modern, elegant, and responsive wedding planner website built withsmooth scrolling navigation, subtle hover effects, and a minimal floral background — beautifully presenting services, gallery, testimonials, and contact sections..",
       name: <a href="https://moments-wedding-planner.vercel.app/" target="_blank">Moments</a>,
       designation: "Wedding Planner Website 💍",
