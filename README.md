@@ -1,6 +1,4 @@
 
----
-
 # Scan QR Portfolio
 
 ## Overview ✨
