@@ -115,6 +115,14 @@ export default function AnimatedTestimonialsDemo() {
       designation: "Premium hair styling and artistry services💇🏻‍♀️",
       src: "hair.png",
     }, 
+        {
+      quote:
+        "A modern, responsive real estate landing page showcasing luxury properties, built with Next.js, Tailwind CSS, Framer Motion, and shadcn/ui.",
+      name: <a href="https://real-e-state-sigma.vercel.app/" target="_blank">Real E State </a>,
+      designation: "Premium Real E State Landing page and minimal UI🏡",
+      src: "realestate.png",
+    },      
+
     {
       quote:
         "A modern, elegant, and responsive restaurant landing page designed to showcase delicious dishes, customer reviews, and essential restaurant details.",
