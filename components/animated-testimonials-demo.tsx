@@ -110,6 +110,13 @@ export default function AnimatedTestimonialsDemo() {
     },
     {
       quote:
+        "A responsive luxury hair studio website with smooth scroll, hover effects, bento grid, and flip cards. Designed for showcasing services, portfolio, pricing, and easy booking.",
+      name: <a href="https://bella-hair-studio.vercel.app/" target="_blank">Isabella Hair Artistry</a>,
+      designation: "Premium hair styling and artistry services💇🏻‍♀️",
+      src: "hair.png",
+    }, 
+    {
+      quote:
         "A modern, elegant, and responsive restaurant landing page designed to showcase delicious dishes, customer reviews, and essential restaurant details.",
       name: <a href="https://delicious-rosy.vercel.app/" target="_blank">Delicious</a>,
       designation: "Restaurant Landing Page 🍕",
