@@ -1,5 +1,5 @@
 
-# Scan QR Portfolio
+# Scan QR Portfolio 📲
 
 ## Overview ✨
 
