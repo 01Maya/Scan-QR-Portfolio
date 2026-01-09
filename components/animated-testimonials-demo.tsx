@@ -129,6 +129,13 @@ export default function AnimatedTestimonialsDemo() {
       designation: "Restaurant Landing Page 🍕",
       src: "delicious.png",
     },
+    {
+      quote:
+        "This elegant bakery landing page features a warm, inviting layout with rich visuals of freshly baked goods and smooth scroll navigation. Its clean design, soft color palette, and interactive sections create a delightful user experience.",
+      name: <a href="https://bakery-page-peach.vercel.app/" target="_blank">Bakery</a>,
+      designation: "Freshly Baked, Just for You!🍞",
+      src: "bakery.png",
+    },   
   ];
 
   return (
