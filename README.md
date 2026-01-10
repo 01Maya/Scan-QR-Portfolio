@@ -52,7 +52,7 @@ Live Website:
 4. Start the development server: `npm run dev`
 5. Open in browser: `http://localhost:3000`
 
-## Production Build
+## Production Build 💡
 
 Run `npm run build` to create a production build.
 Run `npm start` to start the production server.
