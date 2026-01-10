@@ -12,7 +12,7 @@ Scan QR Portfolio is a visually engaging portfolio website focused on user exper
 It features smooth animations, section-based navigation, and interactive UI effects.
 The project is built using modern frontend tools for performance and scalability.
 
-## Features
+## Features 💎
 
 * Fully responsive layout (mobile, tablet, desktop)
 * Smooth animations and transitions
