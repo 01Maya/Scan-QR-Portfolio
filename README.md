@@ -57,6 +57,8 @@ Live Website:
 Run `npm run build` to create a production build.
 Run `npm start` to start the production server.
 
+
+---
 ## License 📝
 
 This project is open-source and available under the MIT License.
