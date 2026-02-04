@@ -32,6 +32,8 @@ Hero Section: Displays a QR code along with name, designation, and a short descr
 * Framer Motion
 * shadcn/ui
 
+---
+
 ## Preview 🔍
 
 Live Website: 
