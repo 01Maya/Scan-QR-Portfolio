@@ -24,6 +24,7 @@ The project is built using modern frontend tools for performance and scalability
 
 Hero Section: Displays a QR code along with name, designation, and a short description, enhanced with animations and interactive effects.
 
+---
 
 ## Tech Stack 🖋️
 
